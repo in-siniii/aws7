@@ -27,3 +27,8 @@ replay_pid*
 .project
 */.gitignore
 front/css/03_스타일속성/연습예제01_이미지 정렬.html
+
+# 파이썬 gitignore
+.venv/
+__pycache__/
+.env
